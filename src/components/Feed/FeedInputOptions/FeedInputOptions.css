@@ -1,0 +1,15 @@
+.feedinputOptions{
+    display: flex;
+   
+    align-items: center;
+    width: 100%;
+    margin-top: 15px;
+    color: gray;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.feedinputOptions:hover{
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
